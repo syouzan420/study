@@ -24,16 +24,3 @@ nen a = let (y,m,d) = wake a
                      else sum (take (m-1) daylist) + d 
                           + (if (m>2 && iuru) then 1 else 0)
 
-daynow :: String -> IO Int
-daynow a = do
-  nday <- day
-  let (y,m,d) = wake a
-      (yn,_,_) = wake nday
-      fyday = 365 - nen a + (if (uru y) then 1 else 0)
-      lsday = nen nday 
-  return (fyday + mdday (y+1) (yn-1) + lsday)
-
-mdday :: Int -> Int -> Int
-mdday c t
-  | c==t = if (uru t) then 366 else 365
-  | otherwise = (if(uru c) then 366 else 365) + (mdday (c+1) t)

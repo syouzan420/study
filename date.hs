@@ -38,3 +38,21 @@ mdday c t
   | c==t = if (uru t) then 366 else 365
   | otherwise = (if(uru c) then 366 else 365) + (mdday (c+1) t)
 
+daybf :: Int -> IO String
+daybf i = do
+  nday <- day
+  let ds = nen nday 
+      (yn,_,_) = wake nday
+  if (i<ds) then return ((show yn)++(monthday (uru yn) (ds-i))) 
+             else return (daybfy (yn-1) (i-ds))
+
+daybfy :: Int -> Int -> String
+daybfy y i = let yl = if (uru y) then 366 else 365
+              in if (i<yl) then (show y)++(monthday (uru y) (yl-i)) 
+                           else daybfy (y-1) (i-yl)
+
+monthday :: Bool -> Int -> String
+monthday u ds = md 1 u ds
+  where  md m u d = let dy = daylist!!(m-1) + (if(m==2 && u) then 1 else 0)
+                    in if (d > dy) then md (m+1) u (d-dy) 
+                                   else (show m)++(show d) 

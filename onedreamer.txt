@@ -1,0 +1,285 @@
+:girl
+
+When I was a little girl,
+you could say a video game saved my life.
+And for as long as I can remember,
+I feel like I've been trying to repay that debt.
+Unfortunately, making games is rather hard.
+Our main project's not going so well,
+we're just two naive kids after all.
+But Frank...
+Even though I know you haven't quite realized it yet...
+Some day you'll come to understand.
+That the debt that I owe...
+We've already paid it forward.
+
+:man
+But in the end...
+All I did was let you down.
+Reality is cruel.
+
+:girl
+Frank, I know it's been over 5 years...
+But I've made up my mind.
+Starting from today, I'll be rebooting and taking charge of the project.
+ProxyLIFE will be a success, just like I promised.
+Drink some coffee and log onto your computer.
+We have a game to make!
+
+:phone
+Dear Mr.Frank.
+This is a formal reminder that you are in default of your obligation to make payments on your personal loan to LUX Corporated.
+Unless the overdue amount of $5000 is received within 30 days.
+we will have no choice but to transfer your account to our collection agency.
+Please act accordingly.
+
+:girl
+Look who finally decided to get out of bed.
+Frank, freelance programmer by day,
+award winning indie game developer by night.
+Though you've been on hiatus for over half a decade now right?
+Well, don't sweat it.
+With my help, you'll finally finish the game that's given you nightmears for all these years.
+But, before we can start...
+One of your freelance clients urgently requires you to fix some code.
+Open the Folders app.
+
+Find and open the InGamePurchases file.
+PlusGameUltra wants to add in-game purchases to their new game.
+Can you enable it?
+Ok, good.
+At least you still remember how to code.
+Today I'll be reviewing all of the games documents and getting up to date with where you left the project.
+In the meantime, take care of your freelance work.
+You should have an email about it.
+We'll talk again later.
+
+:Alice
+Alright Frank.
+Having gone through all of your games documents it's become painfully obvious what the problem is.
+All those years of endless development have completely drained your passion and motivation.
+You're burnt out.
+Frank, you used to be the most hard-working, dedicated person I knew.
+Obsessed with making this game a success at all costs.
+You need to find that spark again.
+Rediscover your inspiration.
+Reading your original manuscript would be a good place to start, but it seems to be missing a few pages.
+Your task tonight is to find the missing manuscript pages and remember why you started this game.
+Good luck Frank.
+
+:mans voice
+I'm sorry Dad, but I've made up my mind.
+Besides, I've already handed in my withdrawal forms.
+My demo was voted the most highly anticipated VR game at VIG 4.
+I'm making something special...
+And once it's released, it'll be the next big indie game!
+Then...
+We can finally get mum the care she needs.
+
+:doors front voice
+Just ajust the lens...
+And, 
+you should be ready to go.
+Uh, I got to run.
+You can borrow the headset, 
+I'm sure someone will give you a hand.
+
+:in the wood girl with pink hair
+Oh geez, are you alright?
+You do know how to use the controller right?
+Uh, I only play solo...
+But... I guess I can help you get started.
+
+:girl with pink hair
+You know, for a beginner you're not half bad.
+You might even have potential.
+Interesting...
+
+:woman in front of the lake
+Welcome back!
+Oh my, what do we have here?
+:pink girl
+Meet Cosmic, I've decided to take her under my wing.
+:woman
+Well this is a surprise, I thought you were strictly a solo player?
+:girl
+Uh, I'm just mentoring her.
+Can't stop and chat, we're going on a quest to help her level up.
+:woman
+Have fun!
+
+:Knarf (pink girl)
+Another quest completed!
+And we got some rare items too!
+But damn, I've never seen someone level up so fast.
+You nearly logged 500 hours in your first month.
+
+:Knarf
+You sure know how to grind...
+My parents would kill me if I played that much...
+Like seriously...
+
+:Knarf
+Alright, I've decided.
+From now on, I'm no longer a solo player.
+Cosmic, we're officially a party.
+
+:Knarf
+Apparently the rumor was true.
+The first party to clear the secret dungeon will get a special invitation to meet the devs.
+So that's why you've been playing so much--
+Ouch!
+Sorry, I gotta go.
+
+:girls on the deck
+Did you hear about Grant's VR gaming channel?
+He hasn't streamed in ages!
+Dude, his streaming career is finished.
+Shame, he seemed like a nice guy.
+I hope he's okey...
+I heard he was even a candidate to host the next VIG Festival.
+
+:Knarf
+Healing potions... check.
+Magic buffs... check.
+Cosmic, I think we're ready!
+And don't worry,
+I'm staying at my grandma's place now.
+So... there won't be any more random disconnections.
+We'll get you that invitation to meet the devs for sure.
+
+:computer
+Our servers are currently experiencing unexpected issues.
+We apologize for any inconvenience caused and are working hard to resolve the problem.
+
+:Knarf
+Just as we were about to clear the secret dungeon...
+And you've been grinding so hard too.
+
+:Knarf
+The devs abandoned the game.
+It'll... probably even be canceled soon.
+Living out in the country with Grandma's great and all...
+But there's no other kids my age around.
+IsekaiVR was more than a game to me...
+It was... an escape.
+A proxy life.
+:Cosmic
+M-My...
+Real name...
+It's... Luna.
+I-I've had this idea..
+For ages.
+W-want...
+Want to...
+Want.. to make a game together?
+
+:Jumbo (IsekaiVR developper)
+Hi everyone, Jumbo here.
+Sorry about the silence.
+The thing is...
+This game has been a dream of mine since I was just a kid.
+Back then I truly believed that it would be something special.
+That I was special.
+But... reality is cruel.
+This game has caused nothing but disappointment and anger.
+Making it... was a mistake.
+IsekaiVR...
+..is officially canceled.
+
+:in the light someone's voice
+I'm told it could be the last opportunity we'll have for a while.
+
+:child voice
+Look mum, I made pong all by myself!
+You can even vs the computer in single player mode!
+Now you won't get bored when I'm not here!
+:mother
+Wow!
+You made a game just for me?
+You're so smart with computers!
+Maybe next time...
+You can make a game for others as well.
+And brighten up their day,
+just like you do for me.
+I think that would be pretty special.
+:man's voice
+Hey, I just got an update from one of the nurses.
+She's being transferred to another hospital to be closer to a specialist.
+They're going to run some more tests but...
+I've sent you some money for flights, we'll talk more when you get home, son.
+
+:man in the lab
+Yeah, I ran into him in the waiting room this morning.
+It's kinda crazy to think he was top of our class in our first semester.
+:woman
+I feel bad for him.
+If only he didn't drop out and waste his life chasing some childish dream...
+:man
+I feel more sorry for his parents.
+Especially his mum.
+He was so talented, he could've really helped people.
+
+:man in the bed room?
+Oh?
+Your son made that game?
+I think I might've played it on stream once.
+No, no I'm not popular or anything.
+In fact, I'm thinking of quitting once I go to college.
+It's just a stupid little dream anyway.
+I'll never be successful like any of the big names.
+:woman
+I-if..
+Your s-streams can brighten up the day...
+O-of even one s-single person.
+E-even just for a moment.
+Then I-I think you're already...
+...Pretty successful.
+
+:woman
+L-Listen...
+I-I have... a f-favor to ask.
+There's... s-someone I want you to meet...
+
+:man
+I'm sorry mum...
+In the end...
+All I did was let you down.
+
+:girl
+Frank
+Why did you start this game?
+
+:man
+Just adjust the lens...
+And... you should be ready to go.
+Uh, I gotta run.
+You can borrow the headset,
+I'm sure someone will give you a hand.
+
+:woman
+W-Want..
+Want to make a game together?
+
+:man
+Reality...
+is cruel.
+Her dream...
+was to make a game for people who wanted an escape.
+A ProxyLIFE.
+So I promised her...
+We would make the game.
+And it would be a cosmic success.
+
+:Alice
+Rise and shine Frank, we have a big day ahead of us.
+Today we're reactivating ProxyLIFE's social media accounts.
+Now, I know you're not a fan of that kind of stuff...
+But we have to start building a community and accumulating wishlists on the Hazestore.
+Those two components are essential for an indie game to succeed.
+I need you to search your apartment for game dev related content I could post online.
+Designs, sketches, anything.
+When you're done, take care of your freelance work and I'll contact you in the afternoon.
+And no slacking!
+
+

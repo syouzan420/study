@@ -282,4 +282,110 @@ Designs, sketches, anything.
 When you're done, take care of your freelance work and I'll contact you in the afternoon.
 And no slacking!
 
+:Alice
+Frank, we need to talk.
+I've been testing the current build of ProxyLIFE and to put it nicely...
+It's a mess.
+I'm not even sure what's a bug or a feature anymore.
+Our goal is to have a demo ready for the 16th Virtual Indie Games festival next month.
+We don't have much time and participation in VIG 16 will be crucial to ProxyLIFE's success.
+That's why I've decided it would be best to revert the project back to a more stable build.
+Your task tonight is to find me an earlier version of the project.
+Try searching for an old backup hard drive in your storage room.
+Goodnight Frank.
+
+:after taking hard-disk and enter the room
+:Luna
+Frank, hurry!
+You're gonna miss it!
+
+:In the display a man speak
+It's finally time you punks!
+Tomorrow, I'll be streaming my atempt to break the world record for the longest consecutive time spent...
+In virtual reality.
+I've got a lineup of sweet AAA games to play,
+but I'm also looking to add some new, lesser-known indie games to the mix.
+If you're a game dev with a cool new VR2 project,
+shoot me through a DM with some deets on how the game came to be.
+A little backstory, if you will.
+Pitch it well and who knows, maybe I'll give it a shot.
+Well, I should probably get some rest, I have a world record to break after all.
+Keep it real punks.
+
+:Luna
+Yeeeeees!
+Frank, did you hear that?
+Grant's looking for new indie VR2 games to play on stream!
+We could give him early access to ProxyLIFE!
+This... this is it.
+Our big break!
+If a streamer like Grant plays our game, we could gain thousands of wishlists.
+And with enough wishlists, we'll be sure to land a publishing deal when we release our demo at VIG 11!
+No more freelancing to make ends meet.
+No more instant ramen for dinner.
+We'll finally be able to focus on the game full-time!
+Frank, we're one step closer to achieving our dream...
+We should totally add something special in-game for Grant.
+An easter egg he would love.
+Come on Frank, I have an idea!
+
+:from the computer woman's voice
+Hi Frank
+Could you please remind Luna about her appointment tomorrow?
+That girl can be so absent-minded sometimes...
+Please look out for her for me.
+
+:Luna
+Alright Frank, we have less than 24 hours to get my cosmic plan ready.
+So, listen carefully.
+We're gonna set up a private early access through the Hazestore.
+And since Grant's the only person we'll share it with,
+we can add a specially designed npc in-game to greet him.
+I'll even record the voice acting and everything!
+This must be fate...
+Grant's been my favourite streamer since we were just kids.
+
+:Luna
+Take 3.
+'Keep it real, punks!'
+...and cut.
+Frank, can you hook up my voice recording to the npc?
+In the meantime I'll work on a npc design Grant would like.
+
+:Luna
+Not bad for an amateur, right?
+Well, I have been practicing my voice acting lately...
+I want ProxyLIFE to include lots of accessibility mods.
+So I was thinking of using my voice to create an AI speech synthesizer.
+Ahem.
+Okay, back to the npc.
+Frank, let's make her more lively.
+Make her play the air guitar by using a template from the animation station below.
+
+:Luna
+Yeah, that's more like it!
+Now just slap on some royalty free punk music and we're done!
+
+:Luna
+Keep it real... punks!
+Yess!
+Grant will LOVE this!
+I feel like a proud mom,
+You know I think of every npc as my own child.
+Alright.
+Now all that's left is to write our backstory pitch and send it to Grant.
+We should definitely exaggerate some parts to make it more interesting.
+Where to start...
+We need to go back...
+What do you say Frank?
+How about we go through some of our old projects for inspiration?
+Let's take a trip down memory lane!
+
+:Luna
+We sure have come a long way over the years haven't we?
+Ever since the day we finished ProxyLIFE's manuscript as kids. we've slowly been leveling up.
+Little by little, gaining the experience and skills needed to bring our projects to life.
+We started by making small, simple assets.
+Just everyday basic objects we could replicate from real life.
+Everybody has to start somewhere, right?
 
